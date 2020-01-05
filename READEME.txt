@@ -1,0 +1,12 @@
+This project is to begin using the basic html/css code that has been taught so far and to learn how to use the inspect tool within Google Chrome. 
+
+The objective of the project is to redesign the Google Homepage to include the basic layout of the elements and a basic form for the search funciton. (This doesn't have to be functional though)
+
+The elements that need to be included will include:
+    1. The Google Logo 
+    2. The search bar (non-funcitonal)
+    3. The Search button and the I'm feeling lucky buttons (non-functional)
+    4. The header at the top of the page including the links for About and Store on the left hand side and Gmail on the right hand side.
+    5. A foot including the Advertising, Business, and How Search Works links. 
+    5. Proper formating for the margins,padding,borders and alignment of all items on page. 
+
