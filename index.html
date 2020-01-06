@@ -2,6 +2,7 @@
 <html>
     <head>
         <link href="styles/style.css" rel="stylesheet">
+        <title>Google</title>
         <body>
             
             <div class="nav">
@@ -14,19 +15,19 @@
             </div>
 
             <div class="logo">
-                <img src="media/Google-logo.png" alt="Google Logo">
+                <img src="media/Google-logo.png" alt="Google Logo" id="logo">
             </div>
 
-            <div class="searchform">
-                <form id="searchbox" action=".actionpage.php" method="GET">
-                    <input type="text" value="Search Google or type a URL"><br>
-                    <input type="submit" name="Submit 1" value="Google Search">
-                    <input type="submit" name="Submit 2" value="I'm Feeling Lucky">
-                </form>
-            </div>
+            <form class="Searchbar" action=".actionpage.php" method="GET">
+                <input type="search" name="searchbar" placeholder="Search Goolge or type URL" id="searchbartext">
+
+            </form>
 
             <div class="buttons">
-
+                    <input type="submit" name="Submit 1" value="Google Search" class="submit">
+                    <input type="submit" name="Submit 2" value="I'm Feeling Lucky" class="submit">
+            </div>
+                
             </div>
 
             <div class="footer">
